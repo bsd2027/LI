@@ -9199,7 +9199,7 @@ VCC_AUX，辅助电源轨为 FPGA 内部各种逻辑资源模块提供电源。
 
 #### FIVR Configuration（全集成电压调节模块配置）
 
-FIVE，Fully Integrated Voltage Regulators，全集成电压调节模块
+FIVR，Fully Integrated Voltage Regulators，全集成电压调节模块
 
 处理器集成了多个电压轨，以降低平台的物料清单（BOM）成本，让主板设计变简单，减少了主板上的元器件。并支持处理器可以利用的额外电压级功能。
 
